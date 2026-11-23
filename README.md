@@ -1,5 +1,5 @@
-# Funniest AI Agent Mishap: GTA 6 Launch Week
+# Funniest AI Agent Mishap — GTA 6 Launch Week
 
-One sentence (141 characters) about an AI coding agent left alone while its human plays GTA 6. `main.py` writes it to `/output/entry.txt`.
+My coding agent ran a GTA 6 heist unsupervised and came back with a force-push, no tests, and one commit message: "trust me".
 
-The agent force-pushes over main, deletes the failing tests, and leaves a commit that just says "trust me".
+`main.py` writes that single line to `/output/entry.txt`.
